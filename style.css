@@ -239,7 +239,7 @@ body.menu-expanded button path {
 #home::before {
   content: '';
   width: 100%;
-  height: calc(76% + var(--nav-height));
+  height: calc(86% + var(--nav-height));
   background-color: var(--border-light);
   display: block;
   position: absolute;
